@@ -1,0 +1,1 @@
+export { johnnyFiveConfig } from './johnnyFiveConfig'
